@@ -1,0 +1,27 @@
+.body_backgorund {
+    background-image: url("https://media.istockphoto.com/photos/abstract-handpainted-art-background-picture-id1081160214?k=20&m=1081160214&s=170667a&w=0&h=t0cNE743_U8EUidcTBgQloRrmFz40qfv2jI7fCJkLLk=");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
